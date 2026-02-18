@@ -1,4 +1,0 @@
-⚠ Requires Linux (uses raw sockets)
-
-```bash
-sudo python3 sniffer.py
